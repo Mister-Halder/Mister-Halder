@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Debashis Halder
 **A Passionate Computer Science Student | Engineering In Progress**
 
-Email Me 👉 ✉️ **debashishalder185@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **debashishalder7936@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debashis-halder-38b360359)
@@ -15,19 +15,16 @@ Email Me 👉 ✉️ **debashishalder185@gmail.com** For Collaboration/Project o
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mister-Halder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mister-Halder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-Halder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mister-Halder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- GitHub Stats Repo View -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mister-Halder&theme=dracula" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mister-Halder&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mister-Halder&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">🚀 Top Contributions</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Building+Projects+🚀;Contributing+to+Open+Source+💡;Just+Learning+📚" />
+</p>
