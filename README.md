@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Debashis Halder
 **A Passionate Computer Science Student | Engineering In Progress**
 
-Email Me 👉 ✉️ **debashishalder7936@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **debashishalder7936@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debashis-halder-38b360359)
