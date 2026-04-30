@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Debashis Halder
+# Hi 👋, I'm Debashis Halder
 **A Passionate Computer Science Student | Engineering In Progress**
 
 Email Me 👉 ✉️ **debashishalder7936@gmail.com** For Collaboration/Project or Anything Else. 😊
