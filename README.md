@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **debashishalder7936@gmail.com** For Collaboration/Project 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/debashis-halder-38b360359)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:debashishalder185@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:debashishalder7936@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/share/1AY6sWVgm7/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/__misterhalder145__?igsh=dnZydHNnMGtrcmM0)
 
