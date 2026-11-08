@@ -1,7 +1,7 @@
 # Hi 👋, I'm Debashis Halder
 **A Passionate Computer Science Student | MERN Stack Learner | Engineering In Progress**
 
-Email Me 👉 ✉️ **debashishalder7936@gmail.com** For Collaboration/Project or Anything Else. 😊
+Email Me 👉 ✉️ **debashishalder185@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 ## 🌐 Socials:
 
@@ -9,6 +9,10 @@ Email Me 👉 ✉️ **debashishalder7936@gmail.com** For Collaboration/Project 
   <a href="https://linkedin.com/in/debashis-halder-38b360359">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/Halder12527">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>  
 
 # 💻 Tech Stack:
 
