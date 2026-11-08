@@ -12,6 +12,9 @@ Email Me 👉 ✉️ **debashishalder185@gmail.com** For Collaboration/Project o
   <a href="https://x.com/Halder12527">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>  
 
 # 💻 Tech Stack:
