@@ -1,7 +1,7 @@
 # Hi 👋, I'm Debashis Halder
-**A Passionate Computer Science Student | MERN Stack Learner | Engineering In Progress**
+**A Passionate CSE Student | MERN Stack Learner | Tech Enthusiast**
 
-Email Me 👉 ✉️ **debashishalder185@gmail.com** For Collaboration/Project or Anything Else. 😊
+Email Me 👉 ✉️ **debashishalder185@gmail.com** For Collaboration/Project or Anything Else 😊
 
 ## 🌐 Socials:
 
