@@ -33,7 +33,6 @@ Email Me 👉 ✉️ **debashishalder185@gmail.com** For Collaboration/Project o
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-<img align="middle" height="100" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <!-- Snake Game Repo View -->
 <div align="center">
